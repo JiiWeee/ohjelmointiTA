@@ -1,2 +1,2 @@
 # ohjelmointiTA
-Harjoitusrepostitorio dokumentointia varten. Repositoriossa on ohjeet ja dokumentaatio sovelluskehittäjän perustyöasemasta.
+Repositoriossa on ohjeet ja dokumentaatio sovelluskehittäjän perustyöasemasta.
